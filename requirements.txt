@@ -4,3 +4,11 @@ langchain-community
 openai
 streamlit
 python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+ipykernel
+bs4
+pypdf
+chromadb
